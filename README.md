@@ -1,54 +1,141 @@
-<h1>Hi, I'm Sriraj Guptha Batchu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Full Stack Engineer Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# 👋 Hi, I'm Sriraj Guptha Batchu  
+### Senior Full-Stack / Cloud Engineer  
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Microservices;AWS+%7C+GCP+%7C+Docker+%7C+Kubernetes;Distributed+Systems+%7C+System+Design+%7C+Scalability;Building+secure%2C+high-availability+enterprise+platforms" alt="Typing SVG" />
 
-<h2>📺 Popular YouTube Videos</h2>
+<br/>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<h2> 🤳 Connect with me:</h2>
+<br/>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirajgupthabatchu@gmail.com)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+</div>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Professional Snapshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 6+ years building cloud-native microservices & enterprise platforms  
+- Delivered **60% faster APIs** and **35% UI performance gains**  
+- Led **monolith → microservices** and **SQL Server → MongoDB** migrations  
+- Hands-on technical lead owning architecture through production  
+- Built platforms supporting **1M+ records** across **4,000+ organizations**
+
+---
+
+## 💼 Experience
+
+### 🏦 Cathay Bank — Full Stack Software Developer (Aug 2024 – Present)
+- Own end-to-end development of cloud-native Java microservices supporting revenue-critical banking workflows  
+- Design secure REST APIs & webhooks using OAuth2/OIDC & JWT for internal and third-party integrations  
+- Lead database performance tuning across PostgreSQL, SQL Server, Oracle, and MongoDB to remove production bottlenecks  
+- Build React & Vue frontends with reusable component libraries to improve delivery speed and UX consistency  
+- Design scalable, fault-tolerant, high-availability distributed systems using proven design patterns  
+- Mentor junior engineers, run code reviews, and raise quality through clean coding and testing standards  
+
+---
+
+### 🏗️ Williams Scotsman Inc — Java Full Stack Developer (Mar 2021 – Jan 2024)
+- Built Spring Boot microservices & React applications supporting core business operations  
+- Modernized SOAP/JAX-WS services into REST APIs to improve maintainability and integration flexibility  
+- Led UI optimization reducing page load times by **35%** through code-splitting and performance best practices  
+- Reduced MongoDB latency by **~30%** via schema + query tuning  
+- Built CI/CD pipelines (Jenkins, GitLab) to improve release reliability  
+- Dockerized services and deployed on AWS (EC2, S3) for consistent environments  
+
+---
+
+### 🏥 Optum — Java Developer (Jan 2020 – Feb 2021)
+- Built Spring Boot REST APIs and batch services supporting **1M+ records** across **4,000+ organizations**  
+- Led SQL Server → MongoDB migration achieving **60% faster APIs** with improved scalability and consistency  
+- Designed OAuth2/JWT-secured APIs in HIPAA-compliant environments  
+- Implemented Spring Batch pipelines and jBPM workflows for orchestration and automation  
+- Increased automated test coverage to **90%+** and strengthened structured logging + error handling  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Java (8/11/17), JavaScript, TypeScript, Python, SQL  
+
+**Backend**  
+Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Node.js  
+
+**Frontend**  
+React, Angular, Vue, HTML5, CSS3  
+
+**Cloud & DevOps**  
+AWS, GCP, Docker, Kubernetes, Jenkins, GitLab CI/CD  
+
+**Databases**  
+PostgreSQL, Oracle, SQL Server, MongoDB, MySQL  
+
+**Architecture**  
+System Design • Distributed Systems • Scalability • High Availability • Fault Tolerance  
+
+**Security**  
+OAuth2 • JWT • OpenID Connect  
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Optional: add banners under each project title (see below) -->
+
+### 🍔 BiteHub – Food Delivery Platform  
+Spring Boot • React • MySQL  
+- Built scalable full-stack platform for ordering & inventory  
+- Implemented role-based authentication & REST APIs  
+👉 Repo: https://github.com/yourusername/bitehub
+
+---
+
+### 🏥 Healthcare Claims Platform  
+Java • Spring Boot • MongoDB • Kafka  
+- Supports 1M+ records across 4,000+ organizations  
+- Event-driven microservices & secure integrations  
+👉 Repo: https://github.com/yourusername/healthcare-claims
+
+---
+
+### 🧠 Generative Facial Image Modeling  
+Python • PyTorch • Diffusion Models  
+- Built class-conditioned diffusion model using FairFace dataset  
+👉 Repo: https://github.com/yourusername/generative-faces
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 M.S. Computer Science — University of Dayton  
+🎓 B.Tech Computer Science — JNTU  
+
+🏅 GCP Associate Cloud Engineer  
+🏅 AWS Cloud Practitioner  
+🏅 Spring Core & Spring Boot  
+
+---
+
+## 🤝 Let’s Connect
+
+📧 srirajgupthabatchu@gmail.com  
+💼 https://linkedin.com/in/yourprofile  
+🐙 https://github.com/yourusername
