@@ -107,30 +107,83 @@ Linux • Windows
 
 ## 🚀 Featured Projects
 
-### 🍔 BiteHub – Food Delivery Platform  
-👉 https://github.com/rajguptha/bitehub  
-Spring Boot • React • MySQL  
+## 🚀 Featured Projects
 
-- Full-stack platform for ordering, inventory, and customer management  
-- Secure role-based authentication and REST APIs  
+### 🎮 BasicGameArena – Multiplayer Tic-Tac-Toe (Full-Stack + DevOps)
 
----
-
-### 🎮 Basic Game Arena  
 👉 https://github.com/rajguptha/basicgamearena-app  
-JavaScript • HTML • CSS  
 
-- Web-based gaming platform with multiple interactive games  
-- Responsive UI and modular design  
+**Tech Stack**  
+React • Vite • TypeScript • TailwindCSS • Java 21 • Spring Boot 3 • WebSockets • Docker • Kubernetes • Helm • GitHub Actions • Argo CD • Prometheus • Grafana  
+
+**Overview**  
+Built a real-time multiplayer Tic-Tac-Toe application from scratch with a complete CI/CD and containerized deployment pipeline.
+
+**Key Highlights**
+- Real-time gameplay using WebSockets (SockJS + STOMP)  
+- REST APIs and WebSocket endpoints using Spring Boot 3  
+- Dockerized frontend and backend images pushed to GHCR  
+- CI/CD pipeline: test → build → containerize → deploy  
+- Kubernetes deployment via Helm charts  
+- Optional GitOps with Argo CD and monitoring with Prometheus/Grafana  
+
+**Architecture (High Level)**
+
+User  
+  ↓  
+React + Vite Frontend  
+  ↓ (WebSocket / REST)  
+Spring Boot Backend  
+  ↓  
+Game State Store  
+  ↓  
+Docker → Kubernetes  
+  ↓  
+GitHub Actions CI/CD  
 
 ---
 
-### 🧠 Generative Facial Image Modeling  
-👉 https://github.com/rajguptha/DeepLearning  
-Python • PyTorch • Diffusion Models  
+### 🍔 BiteHub – Food Delivery & Order Management Platform (Full-Stack)
 
-- Class-conditioned diffusion model using FairFace dataset  
-- Optimized training & inference pipelines  
+👉 https://github.com/rajguptha/bitehub  
+
+**Tech Stack**  
+Java • Spring Boot • React • MySQL • REST APIs • JWT • Docker • AWS  
+
+**Overview**  
+Built a scalable full-stack platform supporting customer management, inventory, and order processing.
+
+**Key Highlights**
+- RESTful APIs using Spring Boot  
+- JWT-based authentication and role-based authorization  
+- Responsive React UI with reusable components  
+- MySQL data modeling and query optimization  
+- Dockerized services and AWS-ready  
+
+---
+
+### 🧠 Generative Modeling for Inclusive Facial Image Creation (Diffusion + U-Net)
+
+👉 https://github.com/rajguptha/DeepLearning  
+
+**Tech Stack**  
+Python • PyTorch • HuggingFace Diffusers • UNet2DModel • DDPMScheduler • TorchVision • Kaggle (FairFace) • Matplotlib  
+
+**Overview**  
+Built a class-conditioned diffusion model using a U-Net backbone to generate diverse facial images from the FairFace dataset, focusing on inclusivity and higher-quality outputs under resolution constraints.
+
+**Key Highlights**
+- Implemented class conditioning using learnable embeddings injected into U-Net input channels  
+- Trained a DDPM model with cosine/squared-cosine noise schedule and MSE loss  
+- Built dataset pipeline with class-based filtering, preprocessing, and ImageFolder dataloaders  
+- Enabled weighted class-mixing to generate blended facial features  
+- Generated image grids for qualitative evaluation and saved model checkpoints
+
+**What This Demonstrates**
+- Deep learning model design and training  
+- Working knowledge of diffusion models and U-Net architectures  
+- Data preprocessing and experiment workflow  
+
 
 ---
 
