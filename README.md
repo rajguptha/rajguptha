@@ -16,8 +16,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraj-batchu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajguptha)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srirajgupthabatchu@gmail.com)
 
 </div>
@@ -92,13 +92,11 @@ OAuth2 • JWT • OpenID Connect
 
 ## 🚀 Featured Projects
 
-<!-- Optional: add banners under each project title (see below) -->
-
 ### 🍔 BiteHub – Food Delivery Platform  
 Spring Boot • React • MySQL  
 - Built scalable full-stack platform for ordering & inventory  
 - Implemented role-based authentication & REST APIs  
-👉 Repo: https://github.com/yourusername/bitehub
+👉 Repo: https://github.com/rajguptha/bitehub  
 
 ---
 
@@ -106,20 +104,20 @@ Spring Boot • React • MySQL
 Java • Spring Boot • MongoDB • Kafka  
 - Supports 1M+ records across 4,000+ organizations  
 - Event-driven microservices & secure integrations  
-👉 Repo: https://github.com/yourusername/healthcare-claims
+👉 Repo: https://github.com/rajguptha/healthcare-claims  
 
 ---
 
 ### 🧠 Generative Facial Image Modeling  
 Python • PyTorch • Diffusion Models  
 - Built class-conditioned diffusion model using FairFace dataset  
-👉 Repo: https://github.com/yourusername/generative-faces
+👉 Repo: https://github.com/rajguptha/generative-faces  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajguptha&show_icons=true)
 
 ---
 
@@ -137,5 +135,5 @@ Python • PyTorch • Diffusion Models
 ## 🤝 Let’s Connect
 
 📧 srirajgupthabatchu@gmail.com  
-💼 https://linkedin.com/in/yourprofile  
-🐙 https://github.com/yourusername
+💼 https://www.linkedin.com/in/sriraj-batchu/  
+🐙 https://github.com/rajguptha
