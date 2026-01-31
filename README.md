@@ -134,9 +134,17 @@ Python • PyTorch • Diffusion Models
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Architecture & System Design Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajguptha&show_icons=true)
+- Designed microservices-based platforms supporting high-throughput, low-latency workloads  
+- Built fault-tolerant systems using circuit breakers, retries, and bulkheads  
+- Designed event-driven architectures using Apache Kafka and JMS  
+- Implemented caching, database indexing, and query optimization strategies  
+- Designed secure APIs using OAuth2, JWT, and OpenID Connect  
+- Built CI/CD pipelines enabling safe, frequent releases  
+- Applied domain-driven design (DDD) and clean architecture principles  
+- Improved observability using structured logging, metrics, and distributed tracing  
+
 
 ---
 
