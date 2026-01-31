@@ -107,8 +107,6 @@ Linux • Windows
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🎮 BasicGameArena – Multiplayer Tic-Tac-Toe (Full-Stack + DevOps)
 
 👉 https://github.com/rajguptha/basicgamearena-app  
