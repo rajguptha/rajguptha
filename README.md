@@ -38,80 +38,99 @@
 
 ### 🏦 Cathay Bank — Full Stack Software Developer (Aug 2024 – Present)
 - Own end-to-end development of cloud-native Java microservices supporting revenue-critical banking workflows  
-- Design secure REST APIs & webhooks using OAuth2/OIDC & JWT for internal and third-party integrations  
-- Lead database performance tuning across PostgreSQL, SQL Server, Oracle, and MongoDB to remove production bottlenecks  
-- Build React & Vue frontends with reusable component libraries to improve delivery speed and UX consistency  
-- Design scalable, fault-tolerant, high-availability distributed systems using proven design patterns  
-- Mentor junior engineers, run code reviews, and raise quality through clean coding and testing standards  
+- Design secure REST APIs & webhooks using OAuth2/OIDC & JWT  
+- Lead database performance tuning across PostgreSQL, SQL Server, Oracle, MongoDB  
+- Build React & Vue frontends with reusable component libraries  
+- Design scalable, fault-tolerant, high-availability distributed systems  
+- Mentor junior engineers & perform code reviews  
 
 ---
 
 ### 🏗️ Williams Scotsman Inc — Java Full Stack Developer (Mar 2021 – Jan 2024)
-- Built Spring Boot microservices & React applications supporting core business operations  
-- Modernized SOAP/JAX-WS services into REST APIs to improve maintainability and integration flexibility  
-- Led UI optimization reducing page load times by **35%** through code-splitting and performance best practices  
-- Reduced MongoDB latency by **~30%** via schema + query tuning  
-- Built CI/CD pipelines (Jenkins, GitLab) to improve release reliability  
-- Dockerized services and deployed on AWS (EC2, S3) for consistent environments  
+- Built Spring Boot microservices & React applications  
+- Modernized SOAP/JAX-WS → REST APIs  
+- Improved UI performance by **35%**  
+- Reduced MongoDB latency by **~30%**  
+- Built CI/CD pipelines (Jenkins, GitLab)  
+- Dockerized apps & deployed on AWS  
 
 ---
 
 ### 🏥 Optum — Java Developer (Jan 2020 – Feb 2021)
-- Built Spring Boot REST APIs and batch services supporting **1M+ records** across **4,000+ organizations**  
-- Led SQL Server → MongoDB migration achieving **60% faster APIs** with improved scalability and consistency  
-- Designed OAuth2/JWT-secured APIs in HIPAA-compliant environments  
-- Implemented Spring Batch pipelines and jBPM workflows for orchestration and automation  
-- Increased automated test coverage to **90%+** and strengthened structured logging + error handling  
+- Built REST APIs & batch services supporting **1M+ records**  
+- Led SQL Server → MongoDB migration achieving **60% faster APIs**  
+- Designed OAuth2/JWT-secured APIs  
+- Implemented Spring Batch & jBPM workflows  
+- Increased automated test coverage to **90%+**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Java (8/11/17), JavaScript, TypeScript, Python, SQL  
+### 💻 Languages
+Java • JavaScript • TypeScript • Python • SQL  
 
-**Backend**  
-Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Node.js  
+### 🎨 Frontend
+React • React Native • Angular • Vue.js • HTML5 • CSS3 • Bootstrap  
 
-**Frontend**  
-React, Angular, Vue, HTML5, CSS3  
+### ⚙️ Backend & Frameworks
+Spring Boot • Spring MVC • Spring Security • Hibernate/JPA • Node.js • Struts  
 
-**Cloud & DevOps**  
-AWS, GCP, Docker, Kubernetes, Jenkins, GitLab CI/CD  
+### 🔌 APIs & Integration
+RESTful Services • Webhooks • OAuth2 • OpenID Connect • JWT • GraphQL • JMS  
 
-**Databases**  
-PostgreSQL, Oracle, SQL Server, MongoDB, MySQL  
+### 🗄️ Databases
+PostgreSQL • Oracle • SQL Server • MySQL • MongoDB  
 
-**Architecture**  
-System Design • Distributed Systems • Scalability • High Availability • Fault Tolerance  
+### ☁️ Cloud & Platforms
+AWS (EC2, S3, CloudWatch) • GCP • Pivotal Cloud Foundry (PCF)  
 
-**Security**  
-OAuth2 • JWT • OpenID Connect  
+### 🚀 DevOps & Containers
+Docker • Kubernetes • Helm • Jenkins • GitLab CI/CD • Maven  
+
+### 📊 Observability & Monitoring
+Prometheus • Grafana • ELK Stack • Splunk • CloudWatch  
+
+### 🧪 Testing & Quality
+JUnit • Mockito • Selenium • Postman • SOAP UI  
+
+### 📡 Messaging & Streaming
+Apache Kafka • JMS  
+
+### 🔧 Version Control & Tools
+Git • GitHub • Bitbucket • IntelliJ IDEA • VS Code  
+
+### 🖥️ Operating Systems
+Linux • Windows  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🍔 BiteHub – Food Delivery Platform  
+👉 https://github.com/rajguptha/bitehub  
 Spring Boot • React • MySQL  
-- Built scalable full-stack platform for ordering & inventory  
-- Implemented role-based authentication & REST APIs  
-👉 Repo: https://github.com/rajguptha/bitehub  
+
+- Full-stack platform for ordering, inventory, and customer management  
+- Secure role-based authentication and REST APIs  
 
 ---
 
-### 🏥 Healthcare Claims Platform  
-Java • Spring Boot • MongoDB • Kafka  
-- Supports 1M+ records across 4,000+ organizations  
-- Event-driven microservices & secure integrations  
-👉 Repo: https://github.com/rajguptha/healthcare-claims  
+### 🎮 Basic Game Arena  
+👉 https://github.com/rajguptha/basicgamearena-app  
+JavaScript • HTML • CSS  
+
+- Web-based gaming platform with multiple interactive games  
+- Responsive UI and modular design  
 
 ---
 
 ### 🧠 Generative Facial Image Modeling  
+👉 https://github.com/rajguptha/DeepLearning  
 Python • PyTorch • Diffusion Models  
-- Built class-conditioned diffusion model using FairFace dataset  
-👉 Repo: https://github.com/rajguptha/generative-faces  
+
+- Class-conditioned diffusion model using FairFace dataset  
+- Optimized training & inference pipelines  
 
 ---
 
