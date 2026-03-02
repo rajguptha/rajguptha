@@ -65,6 +65,15 @@
 
 ---
 
+### 🏥 Kaiser — Software Engineer (Jan 2018 – Dec 2019)
+- Built and maintained Java Spring Boot backend services supporting clinical and pharmacy workflows
+- Developed RESTful APIs enabling secure backend–frontend data exchange
+- Implemented business logic, validation, and SQL-based data access in regulated healthcare systems
+- Assisted with production issue debugging, log analysis, and safe fixes
+- Collaborated in Agile/Scrum teams, writing unit tests and maintaining technical documentation
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
