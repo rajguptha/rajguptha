@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Professional Snapshot
 
-- 6+ years building cloud-native microservices & enterprise platforms  
+- 8+ years building cloud-native microservices & enterprise platforms  
 - Delivered **60% faster APIs** and **35% UI performance gains**  
 - Led **monolith → microservices** and **SQL Server → MongoDB** migrations  
 - Hands-on technical lead owning architecture through production  
